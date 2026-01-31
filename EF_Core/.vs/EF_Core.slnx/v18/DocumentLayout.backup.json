@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\updatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:updatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\updatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:updatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\validation\\isemptyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:validation\\isemptyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\validation\\isemptypassrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:validation\\isemptypassrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\ui\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:ui\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\validation\\isemptyloginrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:validation\\isemptyloginrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\ui\\textboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:ui\\textboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\masterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:masterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\migrations\\20260130144411_addcreatedattouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:migrations\\20260130144411_addcreatedattouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\validation\\isemptyemailrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:validation\\isemptyemailrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\ui\\textblockstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:ui\\textblockstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\ui\\pagestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:ui\\pagestyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\ui\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:ui\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\masterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:masterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\data\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:data\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\migrations\\20260130172600_updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:migrations\\20260130172600_updateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\data\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:data\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_12\\ef_core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50315195-0EB5-FA51-8963-D23EC7D212F2}|EF_Core.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsEmptyRole.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyRole.cs",
+              "RelativeDocumentMoniker": "Validation\\IsEmptyRole.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyRole.cs",
+              "RelativeToolTip": "Validation\\IsEmptyRole.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:32:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\ButtonStyle.xaml",
+              "RelativeDocumentMoniker": "UI\\ButtonStyle.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\ButtonStyle.xaml",
+              "RelativeToolTip": "UI\\ButtonStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:45:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UpdatePage.xaml",
+              "RelativeDocumentMoniker": "UpdatePage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UpdatePage.xaml",
+              "RelativeToolTip": "UpdatePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T09:44:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IsEmptyPassRole.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyPassRole.cs",
+              "RelativeDocumentMoniker": "Validation\\IsEmptyPassRole.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyPassRole.cs",
+              "RelativeToolTip": "Validation\\IsEmptyPassRole.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:26:06.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T08:38:13.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UpdatePage.xaml.cs",
+              "RelativeDocumentMoniker": "UpdatePage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UpdatePage.xaml.cs*",
+              "RelativeToolTip": "UpdatePage.xaml.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:06:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IsEmptyLoginRole.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyLoginRole.cs",
+              "RelativeDocumentMoniker": "Validation\\IsEmptyLoginRole.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyLoginRole.cs",
+              "RelativeToolTip": "Validation\\IsEmptyLoginRole.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:23:02.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextBoxStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\TextBoxStyle.xaml",
+              "RelativeDocumentMoniker": "UI\\TextBoxStyle.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\TextBoxStyle.xaml",
+              "RelativeToolTip": "UI\\TextBoxStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:33:13.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MasterPage.xaml",
+              "RelativeDocumentMoniker": "MasterPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MasterPage.xaml",
+              "RelativeToolTip": "MasterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T09:44:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260130144411_AddCreatedAtToUser.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Migrations\\20260130144411_AddCreatedAtToUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260130144411_AddCreatedAtToUser.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Migrations\\20260130144411_AddCreatedAtToUser.cs",
+              "RelativeToolTip": "Migrations\\20260130144411_AddCreatedAtToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:05:05.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IsEmptyEmailRole.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyEmailRole.cs",
+              "RelativeDocumentMoniker": "Validation\\IsEmptyEmailRole.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Validation\\IsEmptyEmailRole.cs",
+              "RelativeToolTip": "Validation\\IsEmptyEmailRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:36:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\PageStyle.xaml",
+              "RelativeDocumentMoniker": "UI\\PageStyle.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\PageStyle.xaml",
+              "RelativeToolTip": "UI\\PageStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:46:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListView.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\ListView.xaml",
+              "RelativeDocumentMoniker": "UI\\ListView.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\ListView.xaml",
+              "RelativeToolTip": "UI\\ListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:45:36.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextBlockStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\TextBlockStyle.xaml",
+              "RelativeDocumentMoniker": "UI\\TextBlockStyle.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\UI\\TextBlockStyle.xaml",
+              "RelativeToolTip": "UI\\TextBlockStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:44:14.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:37:56.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:23:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\UserService.cs",
+              "RelativeDocumentMoniker": "Data\\UserService.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\UserService.cs",
+              "RelativeToolTip": "Data\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:20:31.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MasterPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\MasterPage.xaml.cs",
+              "RelativeToolTip": "MasterPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:21:08.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:04:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Data\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\ObservableObject.cs",
+              "RelativeToolTip": "Data\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:10:30.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260130172600_UpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Migrations\\20260130172600_UpdateService.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260130172600_UpdateService.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Migrations\\20260130172600_UpdateService.cs",
+              "RelativeToolTip": "Migrations\\20260130172600_UpdateService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:26:00.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "Data\\BaseDbService.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\BaseDbService.cs",
+              "RelativeToolTip": "Data\\BaseDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T16:04:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_12\\EF_Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:01:11.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
