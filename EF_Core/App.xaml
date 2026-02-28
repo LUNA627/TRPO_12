@@ -15,8 +15,8 @@
                 <ResourceDictionary Source="/UI/TextBlockStyle.xaml"/>
                 <ResourceDictionary Source="/UI/ButtonStyle.xaml"/>
                 <ResourceDictionary Source="/UI/ListView.xaml"/>
-                <ResourceDictionary Source="/UI/PageStyle.xaml"/>   
-
+                <ResourceDictionary Source="/UI/PageStyle.xaml"/>
+                <ResourceDictionary Source="/UI/ComboBoxStyle.xaml"/>
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

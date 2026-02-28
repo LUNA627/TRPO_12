@@ -1,4 +1,6 @@
 ﻿using EF_Core.Data;
+using EF_Core.Models;
+using EF_Core.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,11 +26,14 @@ namespace EF_Core
 
         public UserService Service { get; set; } = new UserService();
         public User? SelectedUser { get; set; }
+        public User? user { get; set; } = null;
 
+        
 
         public MasterPage()
         {
             InitializeComponent();
+
             DataContext = this;
         }
 
@@ -49,6 +54,22 @@ namespace EF_Core
 
             NavigationService.Navigate(new UpdatePage(Service, SelectedUser));
 
+        }
+
+
+        private void ListView_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            if (SelectedUser == null)
+            {
+                MessageBox.Show("Выберите элемент из списка!");
+                return;
+            }
+            NavigationService.Navigate(new ProfileUsers(SelectedUser, BaseDbService.Instance));
+        }
+
+        private void LookRolesClick(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new CheckRolesPage());
         }
     }
 }

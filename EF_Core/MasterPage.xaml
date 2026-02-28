@@ -19,18 +19,20 @@
         <StackPanel Orientation="Horizontal">
             <Button Content="Добавить" Click="OnAddClick" Style="{StaticResource PrimaryButton}"/>
             <Button Content="Изменить" Click="OnUpdateClick" Style="{StaticResource PrimaryButton}"/>
+            <Button Content="Роли" Click="LookRolesClick" Style="{StaticResource PrimaryButton}"/>
         </StackPanel>
 
-        <ListView Grid.Row="1" ItemsSource="{Binding Service.Users}" SelectedItem="{Binding SelectedUser}" Style="{StaticResource UserListView}">
+        <ListView Grid.Row="1" ItemsSource="{Binding Service.Users}" MouseDoubleClick="ListView_MouseDoubleClick" SelectedItem="{Binding SelectedUser}" Style="{StaticResource UserListView}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Vertical">
                         <TextBlock Text="{Binding Id, StringFormat='Id: {0}'}" FontWeight="Bold" Style="{StaticResource LabelBlock}"/>
                         <TextBlock Text="{Binding Login, StringFormat='Login: {0}'}" Style="{StaticResource LabelBlock}"/>
-                        <TextBlock Text="{Binding Name, StringFormat='Name: {0}'}" Style="{StaticResource LabelBlock}"/>
+                        <TextBlock Text="{Binding Name, StringFormat='Имя: {0}'}" Style="{StaticResource LabelBlock}"/>
                         <TextBlock Text="{Binding Email, StringFormat='Email: {0}'}" Style="{StaticResource LabelBlock}"/>
-                        <TextBlock Text="{Binding Password, StringFormat='Password: {0}'}" Style="{StaticResource LabelBlock}"/>
-                        <TextBlock Text="{Binding CreatedAt, StringFormat='CreatedAt: {0:dd.MM.yyyy HH:mm}'}" Style="{StaticResource LabelBlock}"/>
+                        <TextBlock Text="{Binding Password, StringFormat='Пароль: {0}'}" Style="{StaticResource LabelBlock}"/>
+                        <TextBlock Text="{Binding CreatedAt, StringFormat='Дата создания: {0:dd.MM.yyyy HH:mm}'}" Style="{StaticResource LabelBlock}"/>
+                        <TextBlock Text="{Binding Role.Title, StringFormat='Роль: {0}'}" Style="{StaticResource LabelBlock}"/>
                         <Separator/>
                     </StackPanel>
                 </DataTemplate>
