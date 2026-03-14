@@ -1,0 +1,56 @@
+﻿<Window x:Class="EF_Core.AddUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EF_Core"
+        mc:Ignorable="d"
+        Title="AddUserWindow" Height="450" Width="800">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Добавление участника в группу" 
+                   FontSize="18" FontWeight="Bold" Margin="0,0,0,20"/>
+
+
+        <StackPanel Grid.Row="1" Margin="0,5">
+            <TextBlock Text="Пользователь:" FontWeight="Bold" Margin="0,0,0,5"/>
+            <ComboBox Height="30" 
+                      Style="{StaticResource PrimaryComboBox}"
+                      ItemsSource="{Binding AvailableUsers}"
+                      DisplayMemberPath="Name"
+                      SelectedItem="{Binding SelectedUser, Mode=TwoWay}"/>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="2" Margin="0,15,0,5">
+            <TextBlock Text="Дата вступления:" FontWeight="Bold" Margin="0,0,0,5"/>
+            <DatePicker Height="30" Width="200" HorizontalAlignment="Left"
+                        SelectedDate="{Binding JoinedAt, Mode=TwoWay}"/>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="3" Margin="0,15,0,5">
+            <TextBlock Text="Роль:" FontWeight="Bold" Margin="0,0,0,10"/>
+            <StackPanel Orientation="Horizontal">
+                <RadioButton Content="Модератор"
+                             IsChecked="{Binding IsModerator}"/>
+                <RadioButton Content="Пользователь" IsChecked="True"/>
+            </StackPanel>
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button Content="Сохранить" Style="{StaticResource PrimaryButton}" Width="100" Margin="0,0,10,0" Click="btnSave_Click"/>
+            <Button Content="Назад" Style="{StaticResource PrimaryButton}" Width="100" Click="btnBack_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

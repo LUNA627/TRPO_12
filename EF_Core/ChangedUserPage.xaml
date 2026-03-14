@@ -28,7 +28,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <!-- для кнопок -->
+
         </Grid.RowDefinitions>
 
         <TextBlock Text="ID:" FontWeight="Bold" Style="{StaticResource LabelBlock}"/>
@@ -86,8 +86,8 @@
         </TextBox>
 
         <StackPanel Grid.Row="15" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
-            <Button Content="Сохранить" Click="OnSaveClick" Width="100" Margin="5"/>
-            <Button Content="Отмена" Click="OnCancelClick" Width="100" Margin="5"/>
+            <Button Content="Сохранить" Style="{StaticResource PrimaryButton}" Click="OnSaveClick" Width="100" Margin="5"/>
+            <Button Content="Отмена" Style="{StaticResource PrimaryButton}" Click="OnCancelClick" Width="100" Margin="5"/>
         </StackPanel>
     </Grid>
 </Page>

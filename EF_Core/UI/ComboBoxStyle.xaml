@@ -3,12 +3,15 @@
                       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
 
 
-    <Style x:Key="PrimaryComboBox" TargetType="ComboBox" BasedOn="{StaticResource MaterialDesignComboBox}">
-        <Setter Property="Margin" Value="5"/>
-        <Setter Property="Padding" Value="8,4"/>
+    <Style x:Key="PrimaryComboBox" TargetType="ComboBox">
+        <Setter Property="Margin" Value="0,0,0,12"/>
+        <Setter Property="Padding" Value="10,8"/>
         <Setter Property="FontSize" Value="14"/>
-        <Setter Property="MinWidth" Value="150"/>
-        <Setter Property="materialDesign:TextFieldAssist.DecorationVisibility" Value="Visible"/>
+        <Setter Property="MinWidth" Value="200"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="BorderBrush" Value="#CCCCCC"/>
+        <Setter Property="BorderThickness" Value="1"/>
     </Style>
 
 </ResourceDictionary>

@@ -53,9 +53,14 @@
         <TextBlock Grid.Row="9" Text="Биография:" Style="{StaticResource LabelBlock}"/>
         <TextBlock Grid.Row="10" Text="{Binding Profile.Bio}" FontWeight="Bold" Style="{StaticResource LabelBlock}"/>
 
-        <StackPanel Grid.Row="15" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
-            <Button Content="Изменить" Click="OnSaveClick" Width="100" Margin="5"/>
-            <Button Content="Назад" Click="OnCancelClick" Width="100" Margin="5"/>
+        <StackPanel Grid.Row="15" Orientation="Horizontal" HorizontalAlignment="Right" >
+            
+            <Button Content="Группы" Style="{StaticResource PrimaryButton}" Click="ListGroupClick" />
+            <Button Content="Изменить" Style="{StaticResource PrimaryButton}" Click="OnSaveClick" />
+            
+            <Button Content="Назад" Style="{StaticResource PrimaryButton}" Click="OnCancelClick"  />
+            
+
         </StackPanel>
     </Grid>
 </Page>

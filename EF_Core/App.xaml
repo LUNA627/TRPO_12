@@ -17,6 +17,8 @@
                 <ResourceDictionary Source="/UI/ListView.xaml"/>
                 <ResourceDictionary Source="/UI/PageStyle.xaml"/>
                 <ResourceDictionary Source="/UI/ComboBoxStyle.xaml"/>
+                <ResourceDictionary Source="/UI/RadioButtonStyle.xaml"/>
+
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

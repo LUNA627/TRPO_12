@@ -2,10 +2,25 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="AddUserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ChangedUserPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="CheckRolesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroopAddWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroopPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroupDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GroupEditWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="MasterPage.xaml.cs">
@@ -15,6 +30,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="UpdatePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserGroupsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

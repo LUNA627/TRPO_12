@@ -39,6 +39,9 @@ namespace EF_Core
             {
                 _db.Entry(_currentUser).Reference(u => u.Role).Load();
             }
+
+
+
         }
 
         private void OnSaveClick(object sender, RoutedEventArgs e)
@@ -50,6 +53,11 @@ namespace EF_Core
         private void OnCancelClick(object sender, RoutedEventArgs e)
         {
             NavigationService.GoBack();
+        }
+
+        private void ListGroupClick(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new UserGroupsPage(_currentUser, _db));
         }
     }
 }

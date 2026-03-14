@@ -15,6 +15,9 @@ namespace EF_Core.Data
         public DbSet<UserProfile> Profiles { get; set; }
         public DbSet<Role> Roles { get; set; }
 
+        public DbSet<UserInterestGroup> UserInterestGroups { get; set; }
+        public DbSet<InterestGroup> InterestGroups { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=LUNA\\SQLEXPRESS;Database=UserDB;Trusted_Connection=True;TrustServerCertificate=True;");
@@ -32,6 +35,20 @@ namespace EF_Core.Data
                 .WithOne(s => s.Role)
                 .HasForeignKey(s => s.RoleId);
 
+
+            modelBuilder.Entity<UserInterestGroup>()
+                .HasKey(e => new { e.UserId, e.InterestGroupId });
+
+            modelBuilder.Entity<UserInterestGroup>()
+                .HasOne(e => e.User)
+                .WithMany(u => u.UserInterestGroups)
+                .HasForeignKey(s => s.UserId);
+
+            modelBuilder.Entity<UserInterestGroup>()
+                .HasOne(e => e.InterestGroup)
+                .WithMany(s => s.UserInterestGroups)
+                .HasForeignKey(q => q.InterestGroupId);
         }
+
     }
 }

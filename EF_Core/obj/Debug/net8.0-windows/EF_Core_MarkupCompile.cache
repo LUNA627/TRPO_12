@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\App.xaml
-12170692105
+19-1507360145
 22-113031925
-32448786285
-231-577014745
-ChangedUserPage.xaml;CheckRolesPage.xaml;MainWindow.xaml;MasterPage.xaml;ProfileUsers.xaml;UI\ButtonStyle.xaml;UI\ComboBoxStyle.xaml;UI\ListView.xaml;UI\PageStyle.xaml;UI\TextBlockStyle.xaml;UI\TextBoxStyle.xaml;UpdatePage.xaml;
+441573500413
+231-1541119295
+AddUserWindow.xaml;ChangedUserPage.xaml;CheckRolesPage.xaml;GroopAddWindow.xaml;GroopPage.xaml;GroupDetailWindow.xaml;GroupEditWindow.xaml;MainWindow.xaml;MasterPage.xaml;ProfileUsers.xaml;UI\ButtonStyle.xaml;UI\ComboBoxStyle.xaml;UI\ListView.xaml;UI\PageStyle.xaml;UI\RadioButtonStyle.xaml;UI\TextBlockStyle.xaml;UI\TextBoxStyle.xaml;UpdatePage.xaml;UserGroupsPage.xaml;
 
 False
 

@@ -167,3 +167,16 @@ C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\U
 C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\ChangedUserPage.baml
 C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\CheckRolesPage.baml
 C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\ProfileUsers.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroopPage.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroopPage.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroopAddWindow.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroopAddWindow.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroupEditWindow.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroupDetailWindow.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroupEditWindow.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\GroupDetailWindow.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\AddUserWindow.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\AddUserWindow.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\UserGroupsPage.g.cs
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\UserGroupsPage.baml
+C:\Users\LUNA0_0\Desktop\ТРПО\ТРПО_12\EF_Core\obj\Debug\net8.0-windows\UI\RadioButtonStyle.baml

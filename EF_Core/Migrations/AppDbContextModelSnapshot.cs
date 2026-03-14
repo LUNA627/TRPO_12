@@ -22,6 +22,25 @@ namespace EF_Core.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("EF_Core.Models.InterestGroup", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("InterestGroups");
+                });
+
             modelBuilder.Entity("EF_Core.Models.Role", b =>
                 {
                     b.Property<int>("Id")
@@ -76,6 +95,27 @@ namespace EF_Core.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("EF_Core.Models.UserInterestGroup", b =>
+                {
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("InterestGroupId")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("IsModerator")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("JoinedAt")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("UserId", "InterestGroupId");
+
+                    b.HasIndex("InterestGroupId");
+
+                    b.ToTable("UserInterestGroups");
+                });
+
             modelBuilder.Entity("EF_Core.Models.UserProfile", b =>
                 {
                     b.Property<int>("Id")
@@ -92,7 +132,7 @@ namespace EF_Core.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("BirthDate")
+                    b.Property<DateTime?>("BirthDate")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("PhoneNumber")
@@ -120,6 +160,25 @@ namespace EF_Core.Migrations
                     b.Navigation("Role");
                 });
 
+            modelBuilder.Entity("EF_Core.Models.UserInterestGroup", b =>
+                {
+                    b.HasOne("EF_Core.Models.InterestGroup", "InterestGroup")
+                        .WithMany("UserInterestGroups")
+                        .HasForeignKey("InterestGroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("EF_Core.Models.User", "User")
+                        .WithMany("UserInterestGroups")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("InterestGroup");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("EF_Core.Models.UserProfile", b =>
                 {
                     b.HasOne("EF_Core.Models.User", "User")
@@ -131,6 +190,11 @@ namespace EF_Core.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("EF_Core.Models.InterestGroup", b =>
+                {
+                    b.Navigation("UserInterestGroups");
+                });
+
             modelBuilder.Entity("EF_Core.Models.Role", b =>
                 {
                     b.Navigation("Users");
@@ -140,6 +204,8 @@ namespace EF_Core.Migrations
                 {
                     b.Navigation("Profile")
                         .IsRequired();
+
+                    b.Navigation("UserInterestGroups");
                 });
 #pragma warning restore 612, 618
         }

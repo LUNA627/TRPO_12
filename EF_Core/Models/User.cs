@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -90,5 +91,14 @@ namespace EF_Core.Models
             get => _role;
             set => SetProperty(ref _role, value);
         }
+
+
+        private ObservableCollection<UserInterestGroup> _userInterestGroups;
+        public ObservableCollection<UserInterestGroup> UserInterestGroups
+        {
+            get => _userInterestGroups;
+            set => SetProperty(ref _userInterestGroups, value);
+        }
+
     }
 }

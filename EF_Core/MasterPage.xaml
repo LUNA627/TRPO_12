@@ -20,6 +20,7 @@
             <Button Content="Добавить" Click="OnAddClick" Style="{StaticResource PrimaryButton}"/>
             <Button Content="Изменить" Click="OnUpdateClick" Style="{StaticResource PrimaryButton}"/>
             <Button Content="Роли" Click="LookRolesClick" Style="{StaticResource PrimaryButton}"/>
+            <Button Content="Группы" Click="WorkWithGropsClick" Style="{StaticResource PrimaryButton}"/>
         </StackPanel>
 
         <ListView Grid.Row="1" ItemsSource="{Binding Service.Users}" MouseDoubleClick="ListView_MouseDoubleClick" SelectedItem="{Binding SelectedUser}" Style="{StaticResource UserListView}">

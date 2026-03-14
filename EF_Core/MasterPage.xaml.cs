@@ -71,5 +71,10 @@ namespace EF_Core
         {
             NavigationService.Navigate(new CheckRolesPage());
         }
+
+        private void WorkWithGropsClick(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new GroopPage());
+        }
     }
 }
